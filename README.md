@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster Crowdfunding*
+b# WEB102 Prework - *Sea Monster Crowdfunding*
 
 Submitted by: **Siddhant Borkar**
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Game that needs the most funding is listed.
 
 ## Video Walkthrough
 
