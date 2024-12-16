@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.youtube.com/watch?v=ytv4Q9UNVe0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[![Watch the video](https://img.youtube.com/vi/ytv4Q9UNVe0/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://www.youtube.com/watch?v=ytv4Q9UNVe0))
+[![Video Walkthrough:](https://img.youtube.com/vi/ytv4Q9UNVe0/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://www.youtube.com/watch?v=ytv4Q9UNVe0))
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with mac screen record and uploaded to YouTube  
